@@ -29,3 +29,5 @@ navigationView.bringToFront();
                 return false;
             }
         });
+
+//comments are added
